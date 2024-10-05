@@ -1,6 +1,6 @@
 <!----------------------------------------------------
 
-Wonder by @sheathemes
+Beast by @sheathemes
 
 Credits
 
@@ -50,11 +50,11 @@ Full credits: https://sheathemes.tumblr.com/credits
 <meta name="image:Sidebar image two" content=""/>
 <meta name="image:Sidebar image two dark mode" content=""/>
 
-<meta name="color:Accent" content="#788f97"/>
+<meta name="color:Accent" content="#ca5849"/>
 <meta name="color:Accent Text" content="#fffff"/>
 <meta name="color:Text" content="#212121"/>
 <meta name="color:Link" content="#272343"/>
-<meta name="color:Link Hover" content="#788f97"/>
+<meta name="color:Link Hover" content="#ca5849"/>
 <meta name="color:Background" content="#f4f4f4"/>
 <meta name="color:Post Background" content="#ffffff"/>
 <meta name="color:Borders" content="#e1e1e1"/>
@@ -65,15 +65,15 @@ Full credits: https://sheathemes.tumblr.com/credits
 
 <meta name="color:&#x2762;&#x25E5; &#x25AC; DARK MODE &#x25AC; &#x25E4;&#x2762;">
 
-<meta name="color:Dark mode Accent" content="#c0bcdc"/>
-<meta name="color:Dark mode Accent Text" content="#000000"/>
+<meta name="color:Dark mode Accent" content="#b64435"/>
+<meta name="color:Dark mode Accent Text" content="#ffffff"/>
 <meta name="color:Dark mode Text" content="#eeedf2"/>
-<meta name="color:Dark mode Link" content="#c0bcdc"/>
-<meta name="color:Dark mode Link Hover" content="#688087"/>
-<meta name="color:Dark mode Background" content="#000000"/>
-<meta name="color:Dark mode Post Background" content="#0c0c0c"/>
-<meta name="color:Dark mode Borders" content="#1a1a1a"/>
-<meta name="color:Dark mode Post Accent" content="#1d2124"/>
+<meta name="color:Dark mode Link" content="#ee6e5d"/>
+<meta name="color:Dark mode Link Hover" content="#cccccc"/>
+<meta name="color:Dark mode Background" content="#0f0f0f"/>
+<meta name="color:Dark mode Post Background" content="#1f1f1f"/>
+<meta name="color:Dark mode Borders" content="#111111"/>
+<meta name="color:Dark mode Post Accent" content="#782117"/>
 <meta name="color:Dark mode Post Accent Text" content="#e1e4e6"/>
 <meta name="color:permalink like dark" content="#df2b2b" />
 <meta name="color:permalink reblog dark" content="#38bb27" />
@@ -2115,7 +2115,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
     {/block:IndexPage}
     
-    // -------------------  toggle modal
+    // -------------------  toggle menu
     const modalWindow = document.querySelector(".modal-shadow");
     const modalToggle = document.querySelector(".modal-button");
     const modalClose = document.querySelector(".modal-close-icon")
